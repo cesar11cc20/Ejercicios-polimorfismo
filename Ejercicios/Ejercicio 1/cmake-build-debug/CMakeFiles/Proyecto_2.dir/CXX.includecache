@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/C++ Clion/POO 1/Proyecto 2/Analista.cpp
+Analista.h
+/cygdrive/d/C++ Clion/POO 1/Proyecto 2/Analista.h
+
+/cygdrive/d/C++ Clion/POO 1/Proyecto 2/Analista.h
+iostream
+-
+Definicioness.h
+/cygdrive/d/C++ Clion/POO 1/Proyecto 2/Definicioness.h
+
+/cygdrive/d/C++ Clion/POO 1/Proyecto 2/Analista_Junior.cpp
+Analista_Junior.h
+/cygdrive/d/C++ Clion/POO 1/Proyecto 2/Analista_Junior.h
+
+/cygdrive/d/C++ Clion/POO 1/Proyecto 2/Analista_Junior.h
+Definicioness.h
+/cygdrive/d/C++ Clion/POO 1/Proyecto 2/Definicioness.h
+Analista.h
+/cygdrive/d/C++ Clion/POO 1/Proyecto 2/Analista.h
+
+/cygdrive/d/C++ Clion/POO 1/Proyecto 2/Analista_Senior.cpp
+Analista_Senior.h
+/cygdrive/d/C++ Clion/POO 1/Proyecto 2/Analista_Senior.h
+
+/cygdrive/d/C++ Clion/POO 1/Proyecto 2/Analista_Senior.h
+string
+-
+iostream
+-
+Analista.h
+/cygdrive/d/C++ Clion/POO 1/Proyecto 2/Analista.h
+Definicioness.h
+/cygdrive/d/C++ Clion/POO 1/Proyecto 2/Definicioness.h
+
+/cygdrive/d/C++ Clion/POO 1/Proyecto 2/Definicioness.h
+string
+-
+iostream
+-
+
+/cygdrive/d/C++ Clion/POO 1/Proyecto 2/main.cpp
+iostream
+-
+Definicioness.h
+/cygdrive/d/C++ Clion/POO 1/Proyecto 2/Definicioness.h
+Analista.h
+/cygdrive/d/C++ Clion/POO 1/Proyecto 2/Analista.h
+Analista_Senior.h
+/cygdrive/d/C++ Clion/POO 1/Proyecto 2/Analista_Senior.h
+Analista_Junior.h
+/cygdrive/d/C++ Clion/POO 1/Proyecto 2/Analista_Junior.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Ejercicio_2.dir/main.cpp.o CMakeFiles/Ejercicio_2.dir/Agente.cpp.o CMakeFiles/Ejercicio_2.dir/Angente_Natural.cpp.o CMakeFiles/Ejercicio_2.dir/Agente_Pequenio.cpp.o  -o Ejercicio_2.exe -Wl,--out-implib,libEjercicio_2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

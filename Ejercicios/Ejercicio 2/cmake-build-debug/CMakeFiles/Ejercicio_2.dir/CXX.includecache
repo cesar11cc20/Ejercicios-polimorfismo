@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/C++ Clion/POO 1/Ejercicios/Ejercicio 2/Agente.cpp
+Agente.h
+/cygdrive/d/C++ Clion/POO 1/Ejercicios/Ejercicio 2/Agente.h
+
+/cygdrive/d/C++ Clion/POO 1/Ejercicios/Ejercicio 2/Agente.h
+Definiciones.h
+/cygdrive/d/C++ Clion/POO 1/Ejercicios/Ejercicio 2/Definiciones.h
+
+/cygdrive/d/C++ Clion/POO 1/Ejercicios/Ejercicio 2/Agente_Pequenio.cpp
+Agente_Pequenio.h
+/cygdrive/d/C++ Clion/POO 1/Ejercicios/Ejercicio 2/Agente_Pequenio.h
+
+/cygdrive/d/C++ Clion/POO 1/Ejercicios/Ejercicio 2/Agente_Pequenio.h
+Definiciones.h
+/cygdrive/d/C++ Clion/POO 1/Ejercicios/Ejercicio 2/Definiciones.h
+Agente.h
+/cygdrive/d/C++ Clion/POO 1/Ejercicios/Ejercicio 2/Agente.h
+
+/cygdrive/d/C++ Clion/POO 1/Ejercicios/Ejercicio 2/Angente_Natural.cpp
+Angente_Natural.h
+/cygdrive/d/C++ Clion/POO 1/Ejercicios/Ejercicio 2/Angente_Natural.h
+
+/cygdrive/d/C++ Clion/POO 1/Ejercicios/Ejercicio 2/Angente_Natural.h
+Definiciones.h
+/cygdrive/d/C++ Clion/POO 1/Ejercicios/Ejercicio 2/Definiciones.h
+Agente.h
+/cygdrive/d/C++ Clion/POO 1/Ejercicios/Ejercicio 2/Agente.h
+
+/cygdrive/d/C++ Clion/POO 1/Ejercicios/Ejercicio 2/Definiciones.h
+string
+-
+
+/cygdrive/d/C++ Clion/POO 1/Ejercicios/Ejercicio 2/main.cpp
+iostream
+-
+Definiciones.h
+/cygdrive/d/C++ Clion/POO 1/Ejercicios/Ejercicio 2/Definiciones.h
+Agente.h
+/cygdrive/d/C++ Clion/POO 1/Ejercicios/Ejercicio 2/Agente.h
+Angente_Natural.h
+/cygdrive/d/C++ Clion/POO 1/Ejercicios/Ejercicio 2/Angente_Natural.h
+Agente_Pequenio.h
+/cygdrive/d/C++ Clion/POO 1/Ejercicios/Ejercicio 2/Agente_Pequenio.h
+
